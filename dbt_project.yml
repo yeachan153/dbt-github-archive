@@ -1,0 +1,11 @@
+version: 2
+
+name: github_archive # this normally says my_new_package
+
+
+profile: github_archive # this normally says default
+
+
+
+models:
+    github_archive: #this normally says my_new_package. It should match the value for `name:`
